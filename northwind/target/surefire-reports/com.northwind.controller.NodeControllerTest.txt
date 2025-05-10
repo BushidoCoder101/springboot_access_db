@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.northwind.controller.NodeControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.523 s - in com.northwind.controller.NodeControllerTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.738 s - in com.northwind.controller.NodeControllerTest
