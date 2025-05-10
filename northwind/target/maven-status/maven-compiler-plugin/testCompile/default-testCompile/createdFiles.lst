@@ -1,0 +1,8 @@
+com\northwind\controller\NodeControllerTest.class
+com\northwind\config\AsyncConfigTest.class
+com\northwind\NorthwindApplicationTest.class
+com\northwind\controller\ProductControllerTest.class
+com\northwind\service\NodeServiceClientTest.class
+com\northwind\service\ProductServiceTest.class
+com\northwind\model\ProductTest.class
+com\northwind\repository\ProductRepositoryTest.class

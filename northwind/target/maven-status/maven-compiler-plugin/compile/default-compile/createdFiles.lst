@@ -1,0 +1,9 @@
+com\northwind\controller\NodeController.class
+com\northwind\config\AsyncConfig.class
+com\northwind\config\RestTemplateConfig.class
+com\northwind\NorthwindApplication.class
+com\northwind\repository\ProductRepository.class
+com\northwind\controller\ProductController.class
+com\northwind\service\ProductService.class
+com\northwind\model\Product.class
+com\northwind\service\NodeServiceClient.class
